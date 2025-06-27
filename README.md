@@ -1,6 +1,6 @@
 # Vision Language Model for Multilingual Visual Question Answering
 
-This repository contains code and resources related to a Vision Language Model (VLM) for answering visual questions in a multilingual context. The project explores the fine-tuning and evaluation of VLMs for the ImageCLEF 2025 challenge.
+This repository contains code and resources related to a Vision Language Model (VLM) for answering visual questions in a multilingual context, specifically utilizing the **Qwen2.5-VL model**. The project explores the fine-tuning and evaluation of VLMs for the ImageCLEF 2025 challenge.
 
 ## Project Structure and Key Files
 
